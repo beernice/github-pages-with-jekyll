@@ -4,5 +4,5 @@ title: "Alcohol Free"
 
 I'm glad you are here. I plan to talk about the #1 summer song of the century
 
-![image](https://user-images.githubusercontent.com/106598027/172154756-e7c08415-dda3-47ff-a3a7-3cae346e7d3c.png = 250x)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alcohol-Free.svg/1200px-Alcohol-Free.svg.png" width="324" height="324">
 
