@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 github_username:  beernice
+instagram_username: twicetagram
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
